@@ -1,6 +1,6 @@
 <h1 align="center">👋 Assalomu alaykum, men Humoyun Mamasodiqov</h1>
 
-<h3 align="center">O'zbekistondan Senior Full‑Stack Dasturchi • Web & CRM Yechimlar Asoschisi</h3>
+<h3 align="center">O'zbekistondan Senior Full‑Stack Dasturchi • Tez Sot Market Asoschisi • WebStorm Jamoasi Rahbari</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22F74A&center=true&vCenter=true&width=700&lines=Tez+Sotiladigan+Web+Saytlar;CRM+va+Face+ID+Tizimlar;Backend+va+Frontend+Arxitektura;Jamoa+Rahbarligi+va+IT+Strategiya" alt="Typing SVG" />
@@ -10,16 +10,22 @@
 
 ## 🧠 Men haqimda (Senior daraja)
 
-Men **senior full‑stack dasturchi** va **tez sotiladigan web‑yechimlar asoschisi**man.
-Asosiy kuchli tomonlarim:
+Men **Tez Sot Market loyihasi asoschisi** va **WebStorm muhitida ishlovchi full‑stack jamoa rahbari**man.
+Asosiy yo'nalishim — **tez sotiladigan, biznesga daromad olib keladigan web‑platformalar** yaratish.
 
-* Biznesga yo'naltirilgan **tezkor va barqaror web‑saytlar**
-* **CRM / ERP / Face ID** asosidagi ichki tizimlar
-* **Backend arxitekturasi**, API dizayn va xavfsizlik
-* **Frontend performance**, UX va konversiya
-* **Jamoa rahbarligi** (WebStorm muhitida ishlovchi full‑stack jamoalar)
+**Rahbar sifatida:**
 
-Maqsadim — **oddiy sayt emas**, balki **pul ishlaydigan mahsulot** yaratish.
+* WebStorm asosida ishlaydigan frontend va backend jamoani boshqaraman
+* Kod sifati, arxitektura va performance uchun javobgarman
+* Junior → Middle → Senior o'sish tizimini yo'lga qo'yganman
+
+**Asoschi sifatida:**
+
+* Bozorga mos mahsulot (MVP → Production)
+* CRM, Market, Face ID va avtomatlashtirilgan tizimlar
+* Texnologiyani emas, **natijani sotadigan yechimlar**
+
+Mening prinsipim: **"Kod chiroyli bo‘lishi mumkin — lekin u pul ishlashi shart."**
 
 ---
 
@@ -55,13 +61,23 @@ Maqsadim — **oddiy sayt emas**, balki **pul ishlaydigan mahsulot** yaratish.
 
 ---
 
-## 🌟 Tez Sotiladigan Web Loyihalar (Asoschi)
+## 🌟 WebStorm Kompaniyasi & Asosiy Loyihalar
 
-| Loyiha                   | Texnologiyalar               | Tavsif                                            |
-| ------------------------ | ---------------------------- | ------------------------------------------------- |
-| **Tez Sot Market**       | Django, PostgreSQL, Tailwind | Mahsulotga yo'naltirilgan online market platforma |
-| **Market Face CRM**      | FastAPI, Face ID, PostgreSQL | Mijozlarni yuz orqali aniqlash va boshqarish      |
-| **CRM Level Aniqlagich** | Django REST, AI logic        | Xodim va mijoz darajasini avtomatik baholash      |
+| Loyiha                           | Rolim               | Texnologiyalar                        | Tavsif                                                          |
+| -------------------------------- | ------------------- | ------------------------------------- | --------------------------------------------------------------- |
+| **WebStorm Company**             | Asoschi & Team Lead | Django, FastAPI, Docker               | Tez sotiladigan web‑yechimlar ishlab chiqadigan IT kompaniya    |
+| **FaceEdu (Face ID System)**     | Arxitektor          | FastAPI, Face Recognition, PostgreSQL | Xodim va mijoz darajasini aniqlash tizimi                       |
+| **FaceEdu Student Level System** | Lead Developer      | Django REST, AI Logic                 | Ingliz tili o‘quvchilarining levelini avtomatik aniqlash tizimi |
+
+------|------|---------------|-------|
+| **Tez Sot Market** | Asoschi & Lead Developer | Django, PostgreSQL, Tailwind | Tez sotiladigan mahsulotlar uchun market platforma |
+| **Market Face CRM** | Arxitektor | FastAPI, Face ID, PostgreSQL | Mijozlarni yuz orqali aniqlash va boshqarish |
+| **CRM Level System** | Team Lead | Django REST, AI Logic | Xodim va mijoz darajasini aniqlash tizimi |
+
+------|---------------|-------|
+| **Tez Sot Market** | Django, PostgreSQL, Tailwind | Mahsulotga yo'naltirilgan online market platforma |
+| **Market Face CRM** | FastAPI, Face ID, PostgreSQL | Mijozlarni yuz orqali aniqlash va boshqarish |
+| **CRM Level Aniqlagich** | Django REST, AI logic | Xodim va mijoz darajasini avtomatik baholash |
 
 ---
 
