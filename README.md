@@ -8,7 +8,8 @@
 
 ---
 
-## 🧠 Men haqimda (Senior daraja)
+## 🧠 Men haqimda
+
 
 Men **Tez Sot Market loyihasi asoschisi** va **WebStorm muhitida ishlovchi full‑stack jamoa rahbari**man.
 Asosiy yo'nalishim — **tez sotiladigan, biznesga daromad olib keladigan web‑platformalar** yaratish.
