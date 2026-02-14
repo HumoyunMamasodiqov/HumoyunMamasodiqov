@@ -1,4 +1,4 @@
-<h1 align="center">👋 Assalomu alaykum, men Humoyun Mamasodiqov</h1>
+<h1 align="center"> Assalomu alaykum, men Humoyun Mamasodiqov</h1>
 
 <h3 align="center">O'zbekistondan Senior Full‑Stack Dasturchi • Tez Sot Market Asoschisi • WebStorm Jamoasi Rahbari</h3>
 
