@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Men haqimda
+## 🧠 Men haqimda 
 
 
 Men **Tez Sot Market loyihasi asoschisi** va **WebStorm muhitida ishlovchi full‑stack jamoa rahbari**man.
